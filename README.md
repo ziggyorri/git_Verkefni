@@ -1,1 +1,1 @@
-Mother focking animals!!!!
+#Ekki fyrsta Git verkafnið
