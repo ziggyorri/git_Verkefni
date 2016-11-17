@@ -25,14 +25,22 @@
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 
 	b) git diff --staged 
+	sínir munin á working inviroment og staging inviroment
 	c) git diff commit1 commit2
+	sínir munin tveimur völdum skjölum
 
 4. 	Hvað er útgáfustýring (e.version control)? 
+What is "version control", and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.
+eða bara einfaldlega þetta er eins og history
 
 5.	Hverjir eru helstu kostir við að nota GIT?
+History traching, branching og file schearing.
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+þegar ég er að fara breita einhverju
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+það er það sem hefur ekki verið addað
 
-8.	Hv
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+þegar stórar breitingar eru í huga og þú vilt halda áfram með origenal kóðan en samt fikta í níja kóðanum samtímis
