@@ -1,0 +1,38 @@
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd
+	change directory: breitir svæðinu sem þú ert á.
+	cd ~
+	færir niður um eitt leavel af direcory (upp möppu)
+	ls
+	sýnir inihald direcrotysins
+	pwd
+	skrifar út directory heitið
+	mkdir
+	búa til directory
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	býr til afrit að völdu skjali(eða branch).
+	git log
+	sínir níleg commit og nöfn þeirra
+	git status
+	sínir muninn á núverandi vistaða skjali og því sem er í stageing inviromentinu
+	git diff
+	Show changes between the working tree and the index or a tree, changes between the index and a tree, changes between two trees, changes between two blob objects, or changes between two files on disk.
+	git checkout 
+	breitir um branch
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+8.	Hv
